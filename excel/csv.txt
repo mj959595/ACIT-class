@@ -1,0 +1,12 @@
+student 1 ,100,pass
+student 2,10,fail
+student 3 ,100,pass
+student 4,10,fail
+student 5 ,100,pass
+student 6,10,fail
+student 7 ,100,pass
+student 8,10,fail
+student 9 ,100,pass
+student 10,10,fail
+student 11 ,100,pass
+student 12,60,fail
